@@ -1,7 +1,7 @@
 ## Audition 翻译
 [回到主页](https://boheme130.github.io/Fiction.git.io/)
 
-<!-- ![avatar](https://cdna.artstation.com/p/assets/images/images/017/753/690/large/harry-grace-all-3-covers.jpg?1557227031) -->
+![avatar](https://media.newyorker.com/photos/5ff74dd3ca8142b226b81b5f/2:1/w_2007,h_1003,c_limit/210118_r37730_rd.jpg)
 <br>
 <br>
 
