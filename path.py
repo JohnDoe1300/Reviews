@@ -16,12 +16,14 @@ def main():
     for path in paths:
         if path.find(".") != -1:
             continue
+        path = path.strip()
         urls.append([path, f"https://boheme130.github.io/Reviews/{path}/", f"./{path}/index.md"])
         subs = os.listdir(f"./{path}")
         if len(subs) > 1:
             for sub in subs:
                 if sub == "index.md":
                     continue
+                sub = sub.strip()
                 urls.append([sub, f"https://boheme130.github.io/Reviews/{path}/{sub}/", f"./{path}/{sub}/index.md"])
 
     with open(output_path, 'a+') as output:
@@ -62,7 +64,7 @@ def main():
                 output.write(f"{output_str}<br>\n")
                 if find_key:
                     output.write(f"{keys}")
-                if add_img:
+                if add_img and img_url != "":
                     output.write("\n <br><br> \n")
                     output.write(f"![avatar]({img_url})<br>\n")
                     output.write("\n <br> \n")
