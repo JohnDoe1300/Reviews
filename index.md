@@ -3,6 +3,11 @@
 
 [A Lady for a Duke](https://boheme130.github.io/Reviews/ALadyForADuke/) ⭐️⭐️<br>
 关键词：跨性别；摄政时代；昔日战友变heroine；性别规范
+ <br><br> 
+![avatar](https://beforewegoblog.com/wp-content/uploads/2023/02/A-Lady-for-a-Duke-blog-header.png)<br>
+
+ <br> 
+
 
 [A Place Called Winter](https://boheme130.github.io/Reviews/APlaceCalledWinter/) <br>
 关键词：英格兰->加拿大；拓荒；自我认同
@@ -33,6 +38,11 @@
 
 [The Charm Offensive](https://boheme130.github.io/Reviews/CharmedOffensive/) ⭐️⭐️⭐️<br>
 关键词：三独素人；结婚真人秀；逼飞奶炸；喜剧；男主角爱上制作人
+ <br><br> 
+![avatar](https://cdn.inflact.com/media/213680678_811914796194927_7719129709911382346_n.jpg?url=https%3A%2F%2Fscontent.cdninstagram.com%2Fv%2Ft51.2885-15%2F213680678_811914796194927_7719129709911382346_n.jpg%3Fstp%3Ddst-jpg_e35_s1080x1080%26_nc_ht%3Dinstagram.forn3-2.fna.fbcdn.net%26_nc_cat%3D103%26_nc_ohc%3DuXmEvXdTCmYAX9th3vy%26edm%3DAP_V10EBAAAA%26ccb%3D7-5%26ig_cache_key%3DMjYxMzQ4NjIxNTIyMTkyMTYyNg%253D%253D.2-ccb7-5%26oh%3D00_AfA2CuJDok_UGY4C6XhB3d1Wso98HXW3mHmrBmph5CDypA%26oe%3D6465DFF9%26_nc_sid%3D4f375e&time=1684112400&key=eeecd3cb30af494105afee75f52433bd)<br>
+
+ <br> 
+
 
 [The Cinderella Waltz](https://boheme130.github.io/Reviews/CinderellaWaltz/) <br>
 
@@ -66,6 +76,11 @@
 
 [Gentlemen Series](https://boheme130.github.io/Reviews/Gentlemen/) ⭐️⭐️⭐️<br>
 关键词：伦敦，贵族，摄政时代
+ <br><br> 
+![avatar](https://cdna.artstation.com/p/assets/images/images/017/753/690/large/harry-grace-all-3-covers.jpg?1557227031)<br>
+
+ <br> 
+
 
 [London Series](https://boheme130.github.io/Reviews/Gentlemen/LondonSeries/) <br>
 关键词：伦敦，贵族，维多利亚时代
@@ -138,6 +153,11 @@
 
 [Proper Scoundrels](https://boheme130.github.io/Reviews/ProperScoundrels/) ⭐️⭐️⭐️<br>
 关键词：善待你的敌人；嘴贱腹黑闷骚英国子爵 & 西班牙奶狗血族法师
+ <br><br> 
+![avatar](https://allietherin.files.wordpress.com/2021/04/c6b57c13-a367-4c7d-83a7-92b2cd2a5858.__cr00970300_pt0_sx970_v1___.jpg?w=970)<br>
+
+ <br> 
+
 
 [The Rat Catcher's Daughte](https://boheme130.github.io/Reviews/RatCatchersDaughter/) <br>
 
@@ -145,7 +165,7 @@
 [Romantic Comedy](https://boheme130.github.io/Reviews/RomanticComedy/) <br>
 关键词：双钻年专歌手 & SNL写手；喜剧制作；新冠；居家隔离
 
-[The Second Footman](https://boheme130.github.io/Reviews/SecondFootman/) ⭐️⭐️<br>
+[The Second Footman](https://boheme130.github.io/Reviews/SecondFootman/) ⭐️<br>
 
 
 [Seducing Professor Coyle](https://boheme130.github.io/Reviews/SeducingProfessorCoyle/) <br>
@@ -165,4 +185,9 @@
 
 [When You Were Me](https://boheme130.github.io/Reviews/WhenYouWereMe/) ⭐️⭐️<br>
 关键词：互换身体！中年危机霸总 & 年轻贫穷美少男 互换
+ <br><br> 
+![avatar](https://ksr-ugc.imgix.net/assets/011/491/176/b382e955b89d636ce1afd087a659fc30_original.jpg?ixlib=rb-4.0.2&crop=faces&w=1024&h=576&fit=crop&v=1463683501&auto=format&frame=1&q=92&s=54d5697d296bd0eac1c823c751ed85de)<br>
+
+ <br> 
+
 

@@ -1,7 +1,7 @@
 ## A Lady for a Duke
 [回到主页](https://boheme130.github.io/Fiction.git.io/)
 
-![avatar](https://kbimages1-a.akamaihd.net/c271070f-4025-4687-bbb2-b7ddd066acf2/1200/1200/False/a-lady-for-a-duke-3.jpg)
+![avatar](https://beforewegoblog.com/wp-content/uploads/2023/02/A-Lady-for-a-Duke-blog-header.png)
 <br>
 <br>
 

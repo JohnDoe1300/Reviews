@@ -1,7 +1,7 @@
 ## When You Were Me
 [回到主页](https://boheme130.github.io/Fiction.git.io/)
 
-![avatar](https://blog.frame.io/wp-content/uploads/2022/04/B0443-featured-image-1.jpg)
+![avatar](https://ksr-ugc.imgix.net/assets/011/491/176/b382e955b89d636ce1afd087a659fc30_original.jpg?ixlib=rb-4.0.2&crop=faces&w=1024&h=576&fit=crop&v=1463683501&auto=format&frame=1&q=92&s=54d5697d296bd0eac1c823c751ed85de)
 <br>
 <br>
 

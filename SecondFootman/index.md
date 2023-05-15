@@ -6,7 +6,7 @@
 
 作品：The Second Footman<br>
 作者：Jasper Barry<br>
-评分：4.8/5<br>
+评分：4.7/5<br>
 
 角色剖析：★★★★★<br>
 剧情推动：★★★☆<br>

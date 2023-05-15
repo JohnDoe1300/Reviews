@@ -29,10 +29,14 @@ def main():
             with open(url[2], 'r') as markdown:
                 lines = markdown.readlines()
                 book, output_str, keys = "", "", ""
-                find_book, find_rate, find_key = False, False, False
+                find_book, find_rate, find_key, add_img = False, False, False, False
                 count = 0
+                img_url = ""
                 for line in lines:
                     line = line.rstrip()
+                    if line.find("avatar") != -1 and not add_img:
+                        index1, index2 = line.find('('), line.find(')')
+                        img_url = line[index1+1:index2]
                     if line.find("作品") != -1 and not find_book:
                         index = line.find('<')
                         book = line[3:index]
@@ -45,17 +49,23 @@ def main():
                             continue
                         count = int((count + 0.001) / 0.1) + 1
                         # print(book, count)
+                        if count >= 2:
+                            add_img = True
                         for i in range(min(count, 3)):
                             output_str += "⭐️"
-                        output.write(f"{output_str}<br>\n")
+                        # output.write(f"{output_str}<br>\n")
                         find_rate = True
                     if line.find("关键词") != -1 and not find_key:
                         keys = line
                         find_key = True
-                if not find_rate:
-                    output.write(f"{output_str}<br>\n")
+                # if not find_rate:
+                output.write(f"{output_str}<br>\n")
                 if find_key:
                     output.write(f"{keys}")
+                if add_img:
+                    output.write("\n <br><br> \n")
+                    output.write(f"![avatar]({img_url})<br>\n")
+                    output.write("\n <br> \n")
                 output.write("\n\n")
                      
 
