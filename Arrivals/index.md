@@ -5,9 +5,9 @@
 <br>
 <br>
 
-作品：Arrivals
-作者：Bryan Washington
-评分：4.4/5
+作品：Arrivals<br>
+作者：Bryan Washington<br>
+评分：4.4/5<br>
 
 纽约客代表风格的一篇小说，重场景重氛围感但情节反而成了次要。就像标题一样，小说里记录了男主"我"一次次抵达男友Aiden拍戏的城市，两人的交往历史通过回忆穿插其中。
 
