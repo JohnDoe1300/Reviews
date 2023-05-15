@@ -5,6 +5,10 @@
 <br>
 <br>
 
+作品：Gentlemen Series<br>
+评分：4.9/5
+关键词：伦敦，贵族，摄政时代
+
 ## 系列0.5
 书名：The Ruin of Gabriel Ashleigh <br>
 作者：KJ Charles <br>

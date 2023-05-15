@@ -1,48 +1,21 @@
-## 绅士三部曲
+## 伦敦十一部曲
 [回到主页](https://boheme130.github.io/Fiction.git.io/)
 
 ![avatar](https://cdna.artstation.com/p/assets/images/images/017/753/690/large/harry-grace-all-3-covers.jpg?1557227031)
 <br>
 <br>
 
-## 系列0.5
-书名：The Ruin of Gabriel Ashleigh <br>
-作者：KJ Charles <br>
-评分：4.5/5 <br>
-
-1818年伦敦，Ash是一位长相英俊，头脑简单的小男生，虽然他非长子，但毕竟有一个作为公爵的父亲，因此也不觉得自卑。有一年姑妈不幸离世，把她的遗产留给了Ash，没有继承权的Ash生活一下子变得富足。然而有一天，Ash在酒精的作用下把全部家产赌给了商人出身的Francis。但Ash打牌时看不透Francis的扑克脸输了个精光。失去了死姑的遗产，Ash的生活一下子跌入了谷底。
-
-现在Francis大仇已报，他不属于贵族，只是因为父亲是第一批投资珍妮机的商人而跻身上流阶层，Francis在伊顿读书时每天都被Ash的哥哥Mal暴打。Ash的哥哥把他扔进垃圾桶，然后对他说，那才是他该去的地方。Francis曾经觉得这部分是他的错，但他成年后来到伦敦决定伺机报复，他把目光锁定到了Ash身上。
-
-Ash独自一人来到了Francis的住所，想要乞讨回死姑的遗产。然而，Francis要求再用扑克赌注，身无分文的Ash面露难色，但Francis却要Ash用他身上的衣服来作赌。然而Ash仍然一输再输，Francis在扑克局上一声令下，没过多久Ash就连衣服都没得穿了，当Francis提出用Ash的屁股偿债时，Ash不知如何选择…..
-
-![avatar](https://i.loli.net/2021/09/10/VgZHou8JfcvLStC.jpg)
+作品：London Series<br>
+评分：4.5/5<br>
+关键词：伦敦，贵族，维多利亚时代
 
 
-## 系列1
-书名：A Fashioanebl Indulgence <br>
-评分：4.5/5
+## 绅士四部曲：A Society of Gentlemen
+1820s，Richard Vane勋爵靠着贵族权势成立了一个私人俱乐部，用这个社交圈将他关心的上流阶层通讯录男子保护起来，比如伯爵之子Ash和工业革命新贵Francis (The Ruin of Gabriel Ashleigh)。Vane家族继承人的意外去世，继承权来到了远亲Harry Vane的身上，当对此一无所知Harry被从革m/ing军抓回上流社会，负责改造他成为贵族的就是俱乐部里的退伍花花公子Julius (A Fashionable Indulgence). 这个过程中凯拓街内阁事变爆发，Harry的前导师Silas Mason (A Seditious Affair)被抓，当俱乐部成员、托利党保守派高官Dominic逮捕Silas时，他才发现自己的地下爱人真实身份竟然是革m/ing煽动者. 在Richard Vane勋爵的贴身男仆David Cyprian的策划下，众人最终化险为夷，但是David和Richard一直双向暗恋却无法忽视两人阶级的鸿沟(A Gentleman’s Position)，在Silas的鼓舞下(A Confidential Problem)，David决定向Richard表白，但Richard的阶级观念让两人不欢而散，然而Ash的一场意外让众人的地下禁忌恋情面临暴露，Richard不得不再次寻求David的帮助，最终在解决困难后两人找到了各自的平衡位置。经历一切变故后(A Private Miscellany)，Richard和David借着周游欧陆的借口去度蜜月，而Dominic也成功封爵，令他的革命爱人Silas决定狠狠惩罚他。 <br> <br>
 
-Ash和Francis最后走到了一起，但这只是Gentlemen系列的前传(Book 0.5)。Ash和Francis作为1810s的txl男子，他们都被幕后的Richard勋爵联络起来。Richard利用自己的权势设立了一个私人俱乐部，用这个社交圈将他关心的上流阶层txl男子保护起来。这个圈子的人相互帮助支持，而外人却对里面的秘密一无所知。
+## 雾都三部曲：Sins of the Cities
+1870s，去世的Talleyfer公爵的遗嘱掀起家族斗争的腥风血雨，顺位继承人被谋杀在旅馆里，第二继承人落到了叔叔头上，而这家旅馆经营者正是印度血统的公爵的儿子之一Clem. 叔侄的不和让Clem赖以生存的旅馆危在旦夕，而谋杀案也把他和房客Rowley刚开始的感情置于危险之中(An Unseen Attraction)。侦探Mark Braglewicz发现公爵的私生子可能才是真正的继承人，仅此他委托了绅士阶层出身的记者朋友Nathaniel Roy帮忙调查. 而Nathaniel Roy正忙着调查伦敦神棍Justin Lazarus，Justin和养女Susan靠通灵装神弄鬼骗取钱财，追求正义的Nathaniel和没有底线的Justin水火不容 (An Unnatural Vice)，然而一场意外却将他们卷入了Talleyfer家族的连续谋杀案中。两人在危险中发现了双方身上的共通处也意外得到了Talleyfer私生子的线索。靠着证据，侦探Mark Braglewicz找到了私生双胞胎兄妹，却发现对方已是闻名伦敦的马戏二人组Pen & Greta，不愿意接受爵位的Pen没有意识到他和Mark已经落入了凶手的圈套之中 (An Unsuitable Heir)。<br> <br>
 
-这个圈子的核心有三个人物，贵族勋爵Richard Vane, 托利党保守派高官Dominic, 退伍花花公子Julius。Richard和Dominic, Julius都谈过恋爱，但都以惨败告终。他们三人曲折的爱情分别是这个系列的三部书。
 
-幸运首先来敲的是Julius的门(Book 1)。1819年，Harry是革命军的孩子，从小参与造反，但他的父亲在参加革命军前是贵族Vane家族的继承人。现在Vane家族的另一位继承人死于意外，父亲也早已去世，Richard的哥哥把Harry从他秘密工作的革命军书店中带回家族，想要把他和过去一刀两断，重新成为一个绅士当继承人。而Julius作为花花公子，被当仁不让地给予了皮格马利翁的任务，来把革命军Harry改造成一个绅士。
-
-## 系列2
-书名：A Seditious Affair <br>
-评分：4.75/5
-
-Harry和Julius终成眷属，下一个轮到了Dominic (Book 2). Dominic和Richard都曾深爱对方，然而Dominic有一个难以启齿的性癖：他非常非常喜欢做奴，做爱时必须被施加暴力。当他想让Richard调教他时，活在1808年的Richard感到十分恶心，两人的爱情就这样在十年前结束了。
-
-幸运的是，Dominic通过中间人介绍找到了他床上的主人Silas。两人每周三都进行幽会，但一年过去了，两人都没有透露各自的名字。两人阶级和政见明显不同，Dominic是一个保守托利党贵族高官，专门逮捕革命人士，Silas是工人阶级，充满了民主思想，认为国家是一个暴政工具。然而两人身份的差异，让Dominic跪在Silas脚下让他调教时更加刺激。
-
-在处理Harry被卷入的一场事件时，Dominic闯入Harry曾经工作的书店进行搜查，却发现书店主人就是他的伴侣。Silas原来是全欧洲最危险的民主共和人士之一。一个是保守派贵族，一个是造反革命党员，两人在这个最不理想的场合，知道了对方的真实身份。
-
-## 系列3
-书名：A Gentleman's Position <br>
-评分：5/5
-
-最终，Dominic和Silas突破了阶级和政治的隔阂走到了一起，但Richard在为朋友高兴的同时，看到他们却心痛无比(Book 3). Richard身上有太多的责任，他不仅要保护自己的家族，还要保护他这个秘密的社交圈。因此他循规蹈矩，不敢越雷池半步。他无可挽回地爱上了自己的贴身男仆Cyprian多年，尽管知道对方深爱自己，他仍然不敢跨越边界。
-
-就像Dominic和Silas，Richard和Cyprian有着巨大的阶级差异，但Richard天性并不能像Dominic一样为爱打破一切。从第一部书开始，他就不断暗示他和Cyprian之间的爱情可望不可即。当他周围的人一对接一对克服困难走到一起，Richard仍然顽固不化。然而一个契机让两人的关系出现了转折。
+## 双盗四部曲：The Lilywhite Boys
+1890s，双人珠宝飞贼Lilywhite Boys让贵族闻风丧胆。Stan Kamarzyn负责将两人盗得的珠宝倒卖，当他无可自拔爱上女歌唱家Miss Christiana他决定铤而走险 (The Rat-Catcher’s Daughter)，然而他不知道的是Christiana是跨性别者，而他也触怒了地下势力Kammy Grizzard. 公爵之子Alec和父亲决裂后做了画家自食其力了二十年，然而父亲导致妹妹死亡后，他决定偷走父亲钻石向父亲报复。他假装和父亲和解，实则带着飞贼之一的Jerry Crozier来到城堡里准备实施盗窃(Any Old Diamonds)，期间Alec和Jerry坠入爱河。然而城堡里竟然出现了女侦探Susan Lazarus，让另一个飞贼Templeton Lane措手不及(Gilded Cage)。原来，Susan就是Justin Lazarus之前一起装神棍的养女，Justin从良后和Nathaniel一起抚养Susan，而Susan少女时期和Richard Vane的贵族远房侄孙James Vane相恋，然而James却意外让Susan怀孕，知道此事的James贵族父亲把James押送往澳洲，并威胁Susan和她的父亲Justin导致Susan小产。十七年过去Susan对James的怨恨从未放下，而James已经化名成了Templeton Lane，靠着年幼时从叔叔Richard的贴身男仆David身上学来的技能成为珠宝大盗，而Susan接受教育成为一名侦探后却发现James深陷一场被诬陷的谋杀案。在证明清白后Telpleton和Jerry两人从良，但是1899年Lilywhite Boys又传闻卷土重出，盗走了珠宝让珠宝保安John被炒，因此他对暗中协助盗窃的Barnady怀恨在心 (Masters in the Hall)，当他知道Barnardy去他五金巨头商人叔叔给女儿准备的圣诞婚礼当表演主持人时，他闯进婚礼试图找出Barnady盗窃的证据，然而Jerry也混进了婚礼想要找出盗用Lilywhite这个称号的罪犯。最终成功解决案件的John被Susan纳入侦探社成为雇员。几年后Susan怀孕和James举行了婚礼(Lilywhite Wedding)，1870线和1890线的众人都被邀请来。John意外发现Alex是Jerry的爱人，曾经被Jerry吓得不轻的他简直无法相信。
