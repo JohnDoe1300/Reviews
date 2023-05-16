@@ -130,6 +130,9 @@
 [Flight Behavior](https://boheme130.github.io/Reviews/FlightBehavior/) <br>
 
 
+[GP](https://boheme130.github.io/Reviews/GPT/) <br>
+
+
 [The Gentle Art of Fortune Hunting ](https://boheme130.github.io/Reviews/GentleArt/) ⭐️⭐️<br>
 关键词：一直一弯一对姐弟，一直一弯一对贵族好友，两两成对，穷困青年v.s.贵族舅舅，双强男主，然而两个女主更强；Math/概率论
  <br><br> 
