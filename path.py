@@ -70,7 +70,7 @@ def main():
                         keys = line
                         find_key = True
                 # if not find_rate:
-                output.write(f"{output_str}<br>\n")
+                output.write(f"{output_str}\n")
                 if find_key:
                     output.write(f"{keys}")
                 if add_img and img_url != "":

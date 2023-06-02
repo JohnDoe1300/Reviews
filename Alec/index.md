@@ -1,16 +1,16 @@
 ## Alec
 [回到上一页](https://boheme130.github.io/Reviews/)  &nbsp;&nbsp;  [回到主页](https://boheme130.github.io/Fiction.git.io/)
 
-![avatar](https://i1.wp.com/epgn.com/wp-content/uploads/2021/07/Alc.jpg?fit=1200%2C748&ssl=1)
-#### Alec作品封面和作者William di Canzio
-<br>
-<br>
-
 作品：Alec <br>
 作者：William di Canzio <br>
 评分：4.5/5 <br>
 
 关键词：莫里斯的情人；续写
+
+![avatar](https://i1.wp.com/epgn.com/wp-content/uploads/2021/07/Alc.jpg?fit=1200%2C748&ssl=1)
+#### Alec作品封面和作者William di Canzio
+<br>
+<br>
 
 E.M. Foster在1914年完成了Maurice(莫里斯的情人)的创作，但这部小说的题材在当时的英国仍不合法，一直到作者死后的1971年才发布。Maurice之所以是queer lit史上一部重要的作品，是因为它开创性地提供了酷儿文学里少见的元素：一个圆满的HE结局(尽管在现在HE已经常见了很多)。Foster本人曾批注：“我必须写出一个HE，我绝对不能写出其他的结局。我相信至少在小说里两个男人能够坠入爱河，然后在小说允许的最大限度里永久保持……HE是创作的关键，但它也带来了另一个出乎意料的后果，那就是这本书会更加难出版。”
 

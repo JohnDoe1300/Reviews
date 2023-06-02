@@ -1,7 +1,7 @@
 ## The Winkler Case
 [回到上一页](https://boheme130.github.io/Reviews/)  &nbsp;&nbsp;  [回到主页](https://boheme130.github.io/Fiction.git.io/)
 
-![avatar](https://scontent-ort2-1.xx.fbcdn.net/v/t1.6435-9/147359731_3779211668831468_4929366637139201337_n.jpg?stp=dst-jpg_s640x640&_nc_cat=104&ccb=1-7&_nc_sid=e3f864&_nc_ohc=f_idVELopcMAX8iLSgA&_nc_oc=AQmSBWIkAy9qc23PSxwwtWOiavhmYs5ygr0N5YpWwQhUDyPBSyNaV5p1dSeDMnQ2g9I&_nc_ht=scontent-ort2-1.xx&oh=00_AT8c_fnD7yTQutwLQG3jZlxa1xISa_D_Aca5D_eXoBSqVg&oe=62CD05E4)
+![avatar]()
 <br>
 <br>
 
