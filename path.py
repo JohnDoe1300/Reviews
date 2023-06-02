@@ -65,6 +65,8 @@ def main():
                         # output.write(f"{output_str}<br>\n")
                         find_rate = True
                     if line.find("关键词") != -1 and not find_key:
+                        while line.find("<br>") != -1:
+                            line = line.replace("<br>", "")
                         keys = line
                         find_key = True
                 # if not find_rate:

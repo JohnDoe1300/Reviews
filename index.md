@@ -10,7 +10,7 @@
 
 
 [A Little Life ](https://boheme130.github.io/Reviews/ALittleLife/) ⭐️⭐️⭐️<br>
-
+关键词：史上最悲伤的小说
  <br><br> 
 ![avatar](https://i.pinimg.com/originals/5b/dd/72/5bdd724d6963a41dd630b7e7478492f8.jpg)<br>
 
@@ -21,7 +21,7 @@
 关键词：英格兰->加拿大；拓荒；自我认同
 
 [A Thief in the Night](https://boheme130.github.io/Reviews/AThiefInTheNight/) <br>
-
+关键词：小偷；落魄贵族；短篇
 
 [# Alec作品封面和作者William di Canzi](https://boheme130.github.io/Reviews/Alec/) <br>
 关键词：莫里斯的情人；续写
@@ -41,7 +41,7 @@
 关键词：缓存式失忆症；医生 & 医生；每天醒来都发现已婚crush在床上；初恋每一天
 
 [Arrivals](https://boheme130.github.io/Reviews/Arrivals/) <br>
-
+关键词：纽约客短篇；演员 & 素人；后疫情时代
 
 [Audition](https://boheme130.github.io/Reviews/Audition/) <br>
 关键词：全文翻译
@@ -70,10 +70,10 @@
 关键词：厨师；巴黎；后殖民主义；回忆录体虚构小说
 
 [Borealis侦探事务所系列](https://boheme130.github.io/Reviews/Borealis/) ⭐️<br>
-关键词：私家侦探，暗恋变恋人，长系列<br>
+关键词：私家侦探，暗恋变恋人，长系列
 
 [Fireman’s Carry (短篇前传)](https://boheme130.github.io/Reviews/CannoliSeries/) <br>
-关键词：卡卡家族；意大利雕塑般侧颜；阳肛四兄弟；为工作不为同性恋救火<br>
+关键词：卡卡家族；意大利雕塑般侧颜；阳肛四兄弟；为工作不为同性恋救火
 
 [The Carpet Weaver ](https://boheme130.github.io/Reviews/CarpetWeaver/) <br>
 关键词：七十年代阿富汗；穆斯林竹马禁忌之恋；手工艺；偷渡；监狱逃生；美国重逢
@@ -87,7 +87,7 @@
 
 
 [The Cinderella Waltz](https://boheme130.github.io/Reviews/CinderellaWaltz/) <br>
-
+关键词：纽约客短篇；婚姻；灰姑娘心理
 
 [Comfort and Joy ](https://boheme130.github.io/Reviews/ComfortAndJoy/) ⭐️⭐️<br>
 关键词：千禧年；医院；南方；深柜；疾病；HE
@@ -107,7 +107,7 @@
 关键词：中篇，五雷轰顶，逼飞奶炸，摄政时代，竟生出个同性恋宝宝，睡亲哥情人，亲哥变亲爹
 
 [Dorian](https://boheme130.github.io/Reviews/Dorian/) <br>
-关键词：道林格雷重写；80s；三角关系；三毒；艾滋潮；戴安娜王妃<br>
+关键词：道林格雷重写；80s；三角关系；三毒；艾滋潮；戴安娜王妃
 
 [Down in Flames](https://boheme130.github.io/Reviews/DownInFlames/) <br>
 关键词：一身五病打工弟爱上老男人；是来加入不是拆散这个家；为艺术不为榜单骑牛
@@ -127,7 +127,7 @@
 关键词：6000词短篇；苏格兰农村->伦敦；贫穷少年误入上流世界；包养；身份构建；柠檬
 
 [The Executive Office系列 ](https://boheme130.github.io/Reviews/ExecutiveOffice/) ⭐️<br>
-关键词：搬床白宫🇺🇸；搬床克里姆林宫🇷🇺；搬床沙特夏宫🇸🇦；战争；碟中谍；多线发展 <br>
+关键词：搬床白宫🇺🇸；搬床克里姆林宫🇷🇺；搬床沙特夏宫🇸🇦；战争；碟中谍；多线发展 
 
 [Fake Out](https://boheme130.github.io/Reviews/FakeOut/) <br>
 关键词：直男找假男友逃避前女友；狗血杠杆；看不透我的扑克脸；姐弟”抢男人”；一哭二抱；姑妈变亲妈
@@ -136,7 +136,7 @@
 关键词：一婚五订；善待你的敌人；女儿订婚，老夫夫破镜重圆；逼飞奶炸；亲家大战
 
 [Flight Behavior](https://boheme130.github.io/Reviews/FlightBehavior/) <br>
-
+关键词：压抑婚姻；单亲；红州小镇；帝皇蝶；气候变化
 
 [GPT ](https://boheme130.github.io/Reviews/GPT/) <br>
 
@@ -161,7 +161,7 @@
 关键词：伦敦，贵族，维多利亚时代
 
 [县级市系列](https://boheme130.github.io/Reviews/HazzardSomers/) ⭐️<br>
-关键词：仇人变爱人；侦探<br>
+关键词：仇人变爱人；侦探
 
 [Him 翻](https://boheme130.github.io/Reviews/HimTrans/) ⭐️<br>
 关键词：短篇，女同写的男同文学
@@ -178,7 +178,7 @@
 关键词：自传；拉丁裔；深柜；喜剧
 
 [Honeytrap ](https://boheme130.github.io/Reviews/Honeytrap/) ⭐️⭐️<br>
-关键词：冷战；美苏；特工；传奇式的三十年感情羁绊；三部曲 <br>
+关键词：冷战；美苏；特工；传奇式的三十年感情羁绊；三部曲 
  <br><br> 
 ![avatar](https://townsquare.media/site/442/files/2015/06/The-Man-From-UNCLE-trailer.jpg)<br>
 
@@ -214,7 +214,7 @@
 关键词：男飞贼；跟腱断列；看不透他的扑克脸；蠢蠢的爱；善待你的敌人；前作反派变主角；喜鹊王
 
 [John Chu短篇小说合集](https://boheme130.github.io/Reviews/JohnChu/) ⭐️<br>
-关键词：科幻，短篇，华裔<br>
+关键词：科幻，短篇，华裔
 
 [The King of Infinite Space](https://boheme130.github.io/Reviews/KingOfInfiniteSpace/) ⭐️<br>
 关键词：《哈姆雷特》现代改写；纽约；百老汇；虐恋；神经质；象征主义
@@ -231,10 +231,10 @@
 关键词：Less续集；现代奥德赛；喜剧；游记体；HE
 
 [Lily Morton系列](https://boheme130.github.io/Reviews/LilyMortonSeries/) ⭐️<br>
-关键词：英国男同宇宙<br>
+关键词：英国男同宇宙
 
 [Boyfriend/Husband Material](https://boheme130.github.io/Reviews/LondonCalling/) ⭐️⭐️⭐️<br>
-
+关键词：都市丽人喜剧；伦敦；假男友变真男友
  <br><br> 
 ![avatar](https://i.ebayimg.com/images/g/Qh4AAOSwMAxj90qe/s-l1600.jpg)<br>
 
@@ -280,7 +280,7 @@
 关键词：真·雕塑般的侧颜；子爵 & 他家的雕塑；魔法；圣诞节
 
 [The People in the Trees ](https://boheme130.github.io/Reviews/PeopleInTheTrees/) ⭐️⭐️⭐️<br>
-关键词组1：独白体，男版洛丽塔，不可靠叙事者<br>
+关键词：1：独白体，男版洛丽塔，不可靠叙事者；2：长生不老，土著岛民，学术帝国殖民主义；共同关键词：权力失衡，不对等关系
  <br><br> 
 ![avatar](https://i.ibb.co/rdv7pj9/IMG-1930.jpg)<br>
 
@@ -320,13 +320,13 @@
 
 
 [各个族裔作品大全](https://boheme130.github.io/Reviews/RaceEthinicity/) ⭐️<br>
-关键词：15+不同族裔的酷儿作品<br>
+关键词：15+不同族裔的酷儿作品
 
 [The Rat Catcher's Daughte](https://boheme130.github.io/Reviews/RatCatchersDaughter/) <br>
 
 
 [Robert Rodi系列](https://boheme130.github.io/Reviews/RobertRodi/) ⭐️⭐️<br>
-关键词：男同comedy，90年代，逼飞奶炸<br>
+关键词：男同comedy，90年代，逼飞奶炸
  <br><br> 
 ![avatar](https://ksr-ugc.imgix.net/assets/011/491/176/b382e955b89d636ce1afd087a659fc30_original.jpg?ixlib=rb-4.0.2&crop=faces&w=1024&h=576&fit=crop&v=1463683501&auto=format&frame=1&q=92&s=54d5697d296bd0eac1c823c751ed85de)<br>
 
@@ -337,7 +337,7 @@
 关键词：双钻年专歌手 & SNL写手；喜剧制作；新冠；居家隔离
 
 [The Second Footman](https://boheme130.github.io/Reviews/SecondFootman/) ⭐️<br>
-
+关键词：法国文学；男仆上位；心机
 
 [Seducing Professor Coyle](https://boheme130.github.io/Reviews/SeducingProfessorCoyle/) <br>
 关键词：师生；搬床；老男人；首谈性亲；大学尖子生变奸子生；三角恋
@@ -370,7 +370,7 @@
 关键词：战后黄金年代；悬疑；保险；柯南早期动画既视感；意料外结局；点睛之笔
 
 [Winterbourne系列四部曲](https://boheme130.github.io/Reviews/WinterbourneSeries/) ⭐️<br>
-关键词：节日系列<br>
+关键词：节日系列
 
 [The World Well Lost ](https://boheme130.github.io/Reviews/WorldWellLost/) ⭐️⭐️<br>
 关键词：短篇；科幻；外星；太空旅行二人组；暗恋；恐同；现实隐喻
