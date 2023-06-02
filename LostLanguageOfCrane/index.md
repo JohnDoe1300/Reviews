@@ -1,5 +1,5 @@
 ## The Lost Language of Cranes
-[回到主页](https://boheme130.github.io/Fiction.git.io/)
+[回到上一页](https://boheme130.github.io/Reviews/)  &nbsp;&nbsp;  [回到主页](https://boheme130.github.io/Fiction.git.io/)
 
 ![avatar](https://cdn.shopify.com/s/files/1/0257/3165/products/7925217_1000x.jpg?v=1508192505)
 <br>

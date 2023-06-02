@@ -1,5 +1,5 @@
 ## Less is Lost
-[回到主页](https://boheme130.github.io/Fiction.git.io/)
+[回到上一页](https://boheme130.github.io/Reviews/)  &nbsp;&nbsp;  [回到主页](https://boheme130.github.io/Fiction.git.io/)
 
 ![avatar](https://static01.nyt.com/images/2022/10/09/books/review/20Schneier-SUB01/20Schneier-SUB01-superJumbo.jpg)
 <br>

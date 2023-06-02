@@ -1,5 +1,5 @@
 ## His Royal 系列
-[回到主页](https://boheme130.github.io/Fiction.git.io/)
+[回到上一页](https://boheme130.github.io/Reviews/)  &nbsp;&nbsp;  [回到主页](https://boheme130.github.io/Fiction.git.io/)
 
 ![avatar](https://www.collectorsweekly.com/articles/wp-content/uploads/2012/08/leyendecker3.jpg)
 <br>

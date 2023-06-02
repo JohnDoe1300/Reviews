@@ -1,5 +1,5 @@
 ## 谎言之水从天而降 翻译
-[回到主页](https://boheme130.github.io/Fiction.git.io/)
+[回到上一页](https://boheme130.github.io/Reviews/)  &nbsp;&nbsp;  [回到主页](https://boheme130.github.io/Fiction.git.io/)
 
 ![avatar](https://i.loli.net/2021/09/11/j9GrvDslbPTNhBM.jpg)
 <br>

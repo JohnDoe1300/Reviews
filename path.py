@@ -28,6 +28,13 @@ def main():
 
     with open(output_path, 'a+') as output:
         for url in urls:
+            # filedata = ""
+            # with open(url[2], 'r') as markdown:
+            #     filedata = markdown.read()
+            #     str1 = "[回到上一页](https://boheme130.github.io/Reviews/)    [回到上一页](https://boheme130.github.io/Reviews/)  &nbsp;&nbsp;  [回到主页](https://boheme130.github.io/Fiction.git.io/)"
+            #     filedata = filedata.replace(str1, "[回到上一页](https://boheme130.github.io/Reviews/)  &nbsp;&nbsp;  [回到主页](https://boheme130.github.io/Fiction.git.io/)")
+            # with open(url[2], 'w') as file:
+            #     file.write(filedata)
             with open(url[2], 'r') as markdown:
                 lines = markdown.readlines()
                 book, output_str, keys = "", "", ""

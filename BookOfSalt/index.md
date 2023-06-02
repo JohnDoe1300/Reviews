@@ -1,5 +1,5 @@
 ## The Book of Salt
-[回到主页](https://boheme130.github.io/Fiction.git.io/)
+[回到上一页](https://boheme130.github.io/Reviews/)  &nbsp;&nbsp;  [回到主页](https://boheme130.github.io/Fiction.git.io/)
 
 ![avatar](https://i.ibb.co/X7QR4LL/IMG-1700.jpg)
 <br>

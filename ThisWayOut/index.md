@@ -1,5 +1,5 @@
 ## This Way Out
-[回到主页](https://boheme130.github.io/Fiction.git.io/)
+[回到上一页](https://boheme130.github.io/Reviews/)  &nbsp;&nbsp;  [回到主页](https://boheme130.github.io/Fiction.git.io/)
 
 ![avatar](https://wordpress.bigissue.com/wp-content/uploads/2022/07/1521_Books_2.jpg)
 <br>

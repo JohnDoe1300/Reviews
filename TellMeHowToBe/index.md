@@ -1,5 +1,5 @@
 ## Tell Me How to Be
-[回到主页](https://boheme130.github.io/Fiction.git.io/)
+[回到上一页](https://boheme130.github.io/Reviews/)  &nbsp;&nbsp;  [回到主页](https://boheme130.github.io/Fiction.git.io/)
 
 ![avatar](https://i0.wp.com/chireviewofbooks.com/wp-content/uploads/2021/12/TellMeHowToBe_1920x675.jpg?fit=1200%2C422&ssl=1)
 <br>

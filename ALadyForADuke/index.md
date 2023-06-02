@@ -1,5 +1,5 @@
 ## A Lady for a Duke
-[回到主页](https://boheme130.github.io/Fiction.git.io/)
+[回到上一页](https://boheme130.github.io/Reviews/)  &nbsp;&nbsp;  [回到主页](https://boheme130.github.io/Fiction.git.io/)
 
 ![avatar](https://beforewegoblog.com/wp-content/uploads/2023/02/A-Lady-for-a-Duke-blog-header.png)
 <br>

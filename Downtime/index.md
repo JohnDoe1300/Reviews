@@ -1,5 +1,5 @@
 ## Downtime
-[回到主页](https://boheme130.github.io/Fiction.git.io/)
+[回到上一页](https://boheme130.github.io/Reviews/)  &nbsp;&nbsp;  [回到主页](https://boheme130.github.io/Fiction.git.io/)
 
 ![avatar](https://static01.nyt.com/images/2019/04/21/sunday-review/21wittmeyer/21wittmeyer-superJumbo.jpg)
 <br>

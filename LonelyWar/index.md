@@ -1,5 +1,5 @@
 ## The Lonely War
-[回到主页](https://boheme130.github.io/Fiction.git.io/)
+[回到上一页](https://boheme130.github.io/Reviews/)  &nbsp;&nbsp;  [回到主页](https://boheme130.github.io/Fiction.git.io/)
 
 ![avatar](https://i0.wp.com/circulatingnow.nlm.nih.gov/wp-content/uploads/2017/04/1308028rp8_feature.png?fit=840%2C372&ssl=1)
 <br>
