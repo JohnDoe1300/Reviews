@@ -1,7 +1,7 @@
 ## Comfort and Joy
 [回到上一页](https://boheme130.github.io/Reviews/)  &nbsp;&nbsp;  [回到主页](https://boheme130.github.io/Fiction.git.io/)
 
-![avatar](https://static01.nyt.com/images/2020/06/04/fashion/04VIRUS-FIRSTPERSON-BOYFRIEND/04VIRUS-FIRSTPERSON-BOYFRIEND-superJumbo.jpg)
+![avatar]()
 <br>
 <br>
 

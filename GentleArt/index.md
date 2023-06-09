@@ -1,7 +1,7 @@
 ## The Gentle Art of Fortune Hunting
 [回到上一页](https://boheme130.github.io/Reviews/)  &nbsp;&nbsp;  [回到主页](https://boheme130.github.io/Fiction.git.io/)
 
-![avatar](https://media.newyorker.com/photos/5f46bbe0694e236d3e6d3158/16:9/w_2559,h_1439,c_limit/McGowan-TheWonderfulWorldofProbability.jpg)
+![avatar]()
 <br>
 <br>
 

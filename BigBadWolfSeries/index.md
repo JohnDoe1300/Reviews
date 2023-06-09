@@ -1,7 +1,7 @@
 ## 大坏狼系列
 [回到上一页](https://boheme130.github.io/Reviews/)  &nbsp;&nbsp;  [回到主页](https://boheme130.github.io/Fiction.git.io/)
 
-![avatar](https://traumrealistin.de/wp-content/uploads/2021/02/Unbenanntes_Projekt-Kopie.jpg)
+![avatar]()
 <br>
 <br>
 

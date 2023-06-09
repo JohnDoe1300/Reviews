@@ -1,7 +1,7 @@
 ## Proper Scoundrels
 [回到上一页](https://boheme130.github.io/Reviews/)  &nbsp;&nbsp;  [回到主页](https://boheme130.github.io/Fiction.git.io/)
 
-![avatar](https://allietherin.files.wordpress.com/2021/04/c6b57c13-a367-4c7d-83a7-92b2cd2a5858.__cr00970300_pt0_sx970_v1___.jpg?w=970)
+![avatar]()
 <br>
 <br>
 

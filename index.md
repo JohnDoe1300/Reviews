@@ -3,14 +3,11 @@
 
 [A Lady for a Duke](https://boheme130.github.io/Reviews/ALadyForADuke/) ⭐️⭐️<br>
 关键词：跨性别；摄政时代；昔日战友变heroine；性别规范
- <br><br> 
-![avatar](https://beforewegoblog.com/wp-content/uploads/2023/02/A-Lady-for-a-Duke-blog-header.png)<br>
-
 
 [A Little Life ](https://boheme130.github.io/Reviews/ALittleLife/) ⭐️⭐️⭐️<br>
 关键词：史上最悲伤的小说
  <br><br> 
-![avatar](https://i.pinimg.com/originals/5b/dd/72/5bdd724d6963a41dd630b7e7478492f8.jpg)<br>
+![avatar](https://images.squarespace-cdn.com/content/v1/60a7bb6642d7b6010698bdcc/1669290431460-W1X5ETBW21TZ0RS3VJB0/A+Little+Life+PR_Group_01.jpg)<br>
 
 
 [A Place Called Winter](https://boheme130.github.io/Reviews/APlaceCalledWinter/) <br>
@@ -25,7 +22,7 @@
 [The Amazing Adventures of Kavalier and Clay (2000年普利策文学桂冠作品) ](https://boheme130.github.io/Reviews/AmazingAdventuresOfKC/) ⭐️⭐️⭐️<br>
 关键词：漫画家；超级英雄；逃脱侠；逃脱术；纳粹；犹太；漫画家 & 超级英雄演员
  <br><br> 
-![avatar](https://graphicnovelty2.files.wordpress.com/2020/03/kavalierclay-escapist.jpg)<br>
+![avatar](https://dirtyplusdivine.files.wordpress.com/2019/07/escapist5_lg.jpg)<br>
 
 
 [An Honest Man](https://boheme130.github.io/Reviews/AnHonestMan/) ⭐️<br>
@@ -33,6 +30,9 @@
 
 [Anterograde](https://boheme130.github.io/Reviews/Anterograde/) <br>
 关键词：缓存式失忆症；医生 & 医生；每天醒来都发现已婚crush在床上；初恋每一天
+
+[Aqua Follies ](https://boheme130.github.io/Reviews/AquaFollies/) <br>
+
 
 [Arrivals](https://boheme130.github.io/Reviews/Arrivals/) <br>
 关键词：纽约客短篇；演员 & 素人；后疫情时代
@@ -48,14 +48,11 @@
 
 [Big Bad Wolf Series](https://boheme130.github.io/Reviews/BigBadWolfSeries/) ⭐️⭐️<br>
 关键词：人狼，FBI，强强
- <br><br> 
-![avatar](https://traumrealistin.de/wp-content/uploads/2021/02/Unbenanntes_Projekt-Kopie.jpg)<br>
-
 
 [Blue Skies](https://boheme130.github.io/Reviews/BlueSkies/) <br>
 关键词：善待你的敌人，镀金年代/现代，曼哈顿，穿越，MF/MM
 
-[Book Boyfriend ](https://boheme130.github.io/Reviews/BookBF/) ⭐️<br>
+[Book Boyfriend ](https://boheme130.github.io/Reviews/BookBF/) <br>
 关键词：metafiction
 
 [The Book of Salt ](https://boheme130.github.io/Reviews/BookOfSalt/) ⭐️<br>
@@ -81,9 +78,6 @@
 
 [Comfort and Joy ](https://boheme130.github.io/Reviews/ComfortAndJoy/) ⭐️⭐️<br>
 关键词：千禧年；医院；南方；深柜；疾病；HE
- <br><br> 
-![avatar](https://static01.nyt.com/images/2020/06/04/fashion/04VIRUS-FIRSTPERSON-BOYFRIEND/04VIRUS-FIRSTPERSON-BOYFRIEND-superJumbo.jpg)<br>
-
 
 [Confetti Hearts](https://boheme130.github.io/Reviews/ConfettiHearts/) <br>
 关键词：老男人；先婚后爱；知三当三；一婚五离；婚礼策划；风雪夜酒店
@@ -129,9 +123,6 @@
 
 [The Gentle Art of Fortune Hunting ](https://boheme130.github.io/Reviews/GentleArt/) ⭐️⭐️<br>
 关键词：一直一弯一对姐弟，一直一弯一对贵族好友，两两成对，穷困青年v.s.贵族舅舅，双强男主，然而两个女主更强；Math/概率论
- <br><br> 
-![avatar](https://media.newyorker.com/photos/5f46bbe0694e236d3e6d3158/16:9/w_2559,h_1439,c_limit/McGowan-TheWonderfulWorldofProbability.jpg)<br>
-
 
 [Gentlemen Series](https://boheme130.github.io/Reviews/Gentlemen/) ⭐️⭐️⭐️<br>
 关键词：伦敦，贵族，摄政时代
@@ -145,17 +136,14 @@
 [县级市系列](https://boheme130.github.io/Reviews/HazzardSomers/) ⭐️<br>
 关键词：仇人变爱人；侦探
 
+[Heroes for Ghosts ](https://boheme130.github.io/Reviews/HerosForGhosts/) ⭐️<br>
+关键词：穿越，一战->现代，士兵，轮回，改写命运，温情
+
 [Him 翻译](https://boheme130.github.io/Reviews/HimTrans/) ⭐️<br>
 关键词：短篇，女同写的男同文学
 
 [His Royal Secret ](https://boheme130.github.io/Reviews/HisRoyal/) ⭐️⭐️⭐️<br>
 关键词：英国王子；德国记者；皇室
- <br><br> 
-![avatar](https://www.collectorsweekly.com/articles/wp-content/uploads/2012/08/leyendecker3.jpg)<br>
-
-
-[Hola Papi](https://boheme130.github.io/Reviews/HolaPapi/) <br>
-关键词：自传；拉丁裔；深柜；喜剧
 
 [Honeytrap ](https://boheme130.github.io/Reviews/Honeytrap/) ⭐️⭐️<br>
 关键词：冷战；美苏；特工；传奇式的三十年感情羁绊；三部曲 
@@ -172,8 +160,8 @@
 [In Memoriam](https://boheme130.github.io/Reviews/InMemoriam/) <br>
 关键词：双向奔赴；暗恋；WWI；青年贵族上战场；PTSD
 
-[Incomple Proof翻译](https://boheme130.github.io/Reviews/IncompleteProof/) ⭐️⭐️<br>
-关键词：分手后破镜重圆；数学证明 = 时装走秀；P != NP<br/>
+[Incomplete Proof 翻译](https://boheme130.github.io/Reviews/IncompleteProof/) ⭐️⭐️<br>
+关键词：分手后破镜重圆；数学证明 = 时装走秀；P != NP
  <br><br> 
 ![avatar](https://imgs.xkcd.com/comics/travelling_salesman_problem.png)<br>
 
@@ -183,6 +171,9 @@
  <br><br> 
 ![avatar](https://www.youngvic.org/sites/default/files/4_0_2.jpg)<br>
 
+
+[Invitation to the Dance ](https://boheme130.github.io/Reviews/InvitationToDance/) <br>
+关键词：美国近代风；仇人变爱人；记者 & 编辑；冒牌贵族误入上流社会
 
 [Jackdaw](https://boheme130.github.io/Reviews/Jackdaw/) <br>
 关键词：男飞贼；跟腱断列；看不透他的扑克脸；蠢蠢的爱；善待你的敌人；前作反派变主角；喜鹊王
@@ -196,7 +187,7 @@
 [Less ](https://boheme130.github.io/Reviews/Less/) ⭐️⭐️<br>
 关键词：喜剧Comedy，文风轻散愉快，英雄史诗结构，游记，片段式写法，惊喜结局
  <br><br> 
-![avatar](https://d3i6fh83elv35t.cloudfront.net/static/2018/06/FS-Book-Fly-LESS-1024x576.jpg)<br>
+![avatar](https://hips.hearstapps.com/hmg-prod/images/es-042318-andrew-sean-greer-pulitzer-prize-1524509921.jpg)<br>
 
 
 [Less is Lost](https://boheme130.github.io/Reviews/LessIsLost/) <br>
@@ -279,15 +270,15 @@
 
 [Proper Scoundrels](https://boheme130.github.io/Reviews/ProperScoundrels/) ⭐️⭐️⭐️<br>
 关键词：善待你的敌人；嘴贱腹黑闷骚英国子爵 & 西班牙奶狗血族法师
- <br><br> 
-![avatar](https://allietherin.files.wordpress.com/2021/04/c6b57c13-a367-4c7d-83a7-92b2cd2a5858.__cr00970300_pt0_sx970_v1___.jpg?w=970)<br>
-
 
 [各个族裔作品大全](https://boheme130.github.io/Reviews/RaceEthinicity/) ⭐️<br>
 关键词：15+不同族裔的酷儿作品
 
 [The Rat Catcher's Daughte](https://boheme130.github.io/Reviews/RatCatchersDaughter/) <br>
 
+
+[Risk Assessment ](https://boheme130.github.io/Reviews/RiskAssessment/) <br>
+关键词：年龄差，阶级差，熟男律师，前罪犯现修车店老板，双外强内弱男主
 
 [Robert Rodi系列](https://boheme130.github.io/Reviews/RobertRodi/) ⭐️⭐️<br>
 关键词：男同comedy，90年代，逼飞奶炸

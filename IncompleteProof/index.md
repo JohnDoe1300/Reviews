@@ -5,9 +5,10 @@
 <br/>
 <br/>
 
-作品：Incomple Proof翻译<br/>
+作品：Incomplete Proof 翻译<br/>
 评分：4.8/5<br/>
-关键词：分手后破镜重圆；数学证明 = 时装走秀；P != NP<br/>
+
+关键词：分手后破镜重圆；数学证明 = 时装走秀；P != NP
 
 
 

@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-![avatar](https://i.pinimg.com/originals/5b/dd/72/5bdd724d6963a41dd630b7e7478492f8.jpg)
+![avatar](https://images.squarespace-cdn.com/content/v1/60a7bb6642d7b6010698bdcc/1669290431460-W1X5ETBW21TZ0RS3VJB0/A+Little+Life+PR_Group_01.jpg)
 
 <br>
 
