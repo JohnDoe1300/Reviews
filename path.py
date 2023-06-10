@@ -54,6 +54,7 @@ def main():
                     if line.find("评分") != -1 and line.find('/') != -1 and not find_rate:
                         index = line.find('/')
                         count = float(line[3:index]) - 4.7
+                        find_rate = True
                         if count < -0.1:
                             continue
                         count = int((count + 0.001) / 0.1) + 1
@@ -63,7 +64,6 @@ def main():
                         for i in range(min(count, 3)):
                             output_str += "⭐️"
                         # output.write(f"{output_str}<br>\n")
-                        find_rate = True
                     if line.find("关键词") != -1 and not find_key:
                         while line.find("<br>") != -1:
                             line = line.replace("<br>", "")

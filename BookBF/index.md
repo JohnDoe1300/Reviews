@@ -10,9 +10,9 @@
 作者：Kris Ripper <br>
 评分：4.6/5 <br>
 
-关键词：metafiction
+关键词：metafiction；诺桑觉寺改写
 
-KJC推荐，AIexis Hαll参与修改的一本书，风格独树一帜，如果说大部分书需要两个主角才能构成一场romance, 这本书的感情线却能仅凭主角一个人的脑洞撑起来。
+KJC推荐，Alexis Hall参与修改的一本书，风格独树一帜，如果说大部分书需要两个主角才能构成一场romance, 这本书的感情线却能仅凭主角一个人的脑洞撑起来。
 
 <br>
 

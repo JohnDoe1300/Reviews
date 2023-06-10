@@ -7,7 +7,7 @@
 
 系列名：Hot Cannoli Series<br>
 作者：Eli Easton<br>
-关键词：卡卡家族；意大利雕塑般侧颜；阳肛四兄弟；为工作不为同性恋救火<br>
+关键词：卡卡家族；意大利雕塑般侧颜；阳肛四兄弟；消防员<br>
 
 作品：Fireman’s Carry (短篇前传)<br>
 评分：4.5/5<br>

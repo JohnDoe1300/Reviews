@@ -2,10 +2,10 @@
 [回到主页](https://boheme130.github.io/Fiction.git.io/)<br><br>
 
 [A Lady for a Duke](https://boheme130.github.io/Reviews/ALadyForADuke/) ⭐️⭐️<br>
-关键词：跨性别；摄政时代；昔日战友变heroine；性别规范
+关键词：跨性别；摄政时代；昔日竹马贵族战友变性；性别规范
 
 [A Little Life ](https://boheme130.github.io/Reviews/ALittleLife/) ⭐️⭐️⭐️<br>
-关键词：史上最悲伤的小说
+关键词：史上最悲伤的小说；虐待关系；友谊；纯男性关系
  <br><br> 
 ![avatar](https://images.squarespace-cdn.com/content/v1/60a7bb6642d7b6010698bdcc/1669290431460-W1X5ETBW21TZ0RS3VJB0/A+Little+Life+PR_Group_01.jpg)<br>
 
@@ -13,56 +13,53 @@
 [A Place Called Winter](https://boheme130.github.io/Reviews/APlaceCalledWinter/) <br>
 关键词：英格兰->加拿大；拓荒；自我认同
 
-[A Thief in the Night](https://boheme130.github.io/Reviews/AThiefInTheNight/) <br>
-关键词：小偷；落魄贵族；短篇
-
 [Alec ](https://boheme130.github.io/Reviews/Alec/) <br>
 关键词：莫里斯的情人；续写
 
-[The Amazing Adventures of Kavalier and Clay (2000年普利策文学桂冠作品) ](https://boheme130.github.io/Reviews/AmazingAdventuresOfKC/) ⭐️⭐️⭐️<br>
+[The Amazing Adventures of Kavalier and Clay](https://boheme130.github.io/Reviews/AmazingAdventuresOfKC/) ⭐️⭐️⭐️<br>
 关键词：漫画家；超级英雄；逃脱侠；逃脱术；纳粹；犹太；漫画家 & 超级英雄演员
  <br><br> 
 ![avatar](https://dirtyplusdivine.files.wordpress.com/2019/07/escapist5_lg.jpg)<br>
 
 
 [An Honest Man](https://boheme130.github.io/Reviews/AnHonestMan/) ⭐️<br>
-关键词：柏林墙；西德；间谍；生活西化；东学西渐；coming of age
+关键词：柏林墙；西德；间谍；生活西化；HE；coming of age
 
 [Anterograde](https://boheme130.github.io/Reviews/Anterograde/) <br>
 关键词：缓存式失忆症；医生 & 医生；每天醒来都发现已婚crush在床上；初恋每一天
 
 [Aqua Follies ](https://boheme130.github.io/Reviews/AquaFollies/) <br>
-
+关键词：战后保守年代；西雅图；水上芭蕾；法学生爱上小号手
 
 [Arrivals](https://boheme130.github.io/Reviews/Arrivals/) <br>
 关键词：纽约客短篇；演员 & 素人；后疫情时代
 
 [Audition](https://boheme130.github.io/Reviews/Audition/) <br>
-关键词：全文翻译
+关键词：coming of age；全文翻译
 
 [The Bad Husband’s Handbook](https://boheme130.github.io/Reviews/BadHusbandHandbook/) <br>
-关键词：丧偶式育儿；离婚；逆向约会；Go Blue🔵🟡
+关键词：丧偶式育儿；离婚冷静期；逆向约会
 
 [Band Sinister](https://boheme130.github.io/Reviews/BandSinister/) ⭐️<br>
 关键词：古风；哥特；前工革英式田园牧歌；小白兔闯狼巢；善待你的敌人
 
 [Big Bad Wolf Series](https://boheme130.github.io/Reviews/BigBadWolfSeries/) ⭐️⭐️<br>
-关键词：人狼，FBI，强强
+关键词：人狼；FBI；探案；强强
 
 [Blue Skies](https://boheme130.github.io/Reviews/BlueSkies/) <br>
-关键词：善待你的敌人，镀金年代/现代，曼哈顿，穿越，MF/MM
+关键词：建筑文物保护运动家 v.s. 房地产霸总，镀金年代/现代，曼哈顿，时间穿越，MF/MM
 
 [Book Boyfriend ](https://boheme130.github.io/Reviews/BookBF/) <br>
-关键词：metafiction
+关键词：metafiction；诺桑觉寺改写
 
 [The Book of Salt ](https://boheme130.github.io/Reviews/BookOfSalt/) ⭐️<br>
-关键词：厨师；巴黎；后殖民主义；回忆录体虚构小说
+关键词：越南厨师；巴黎；后殖民主义；回忆录体虚构小说
 
-[Borealis侦探事务所系列](https://boheme130.github.io/Reviews/Borealis/) ⭐️<br>
-关键词：私家侦探，暗恋变恋人，长系列
+[Borealis侦探事务所系列](https://boheme130.github.io/Reviews/Borealis/) <br>
+关键词：私家侦探，暗恋变恋人，体型差，长系列
 
 [Fireman’s Carry (短篇前传)](https://boheme130.github.io/Reviews/CannoliSeries/) <br>
-关键词：卡卡家族；意大利雕塑般侧颜；阳肛四兄弟；为工作不为同性恋救火
+关键词：卡卡家族；意大利雕塑般侧颜；阳肛四兄弟；消防员
 
 [The Carpet Weaver ](https://boheme130.github.io/Reviews/CarpetWeaver/) <br>
 关键词：七十年代阿富汗；穆斯林竹马禁忌之恋；手工艺；偷渡；监狱逃生；美国重逢
@@ -77,13 +74,13 @@
 关键词：纽约客短篇；婚姻；灰姑娘心理
 
 [Comfort and Joy ](https://boheme130.github.io/Reviews/ComfortAndJoy/) ⭐️⭐️<br>
-关键词：千禧年；医院；南方；深柜；疾病；HE
+关键词：千禧年；医院；深柜老钱医生爱上勤杂管理员；疾病；HE
 
 [Confetti Hearts](https://boheme130.github.io/Reviews/ConfettiHearts/) <br>
 关键词：老男人；先婚后爱；知三当三；一婚五离；婚礼策划；风雪夜酒店
 
 [The Cuckoo’s Call](https://boheme130.github.io/Reviews/CuckoosCall/) <br>
-关键词：老男人；意大利雕塑般侧颜；首谈性亲；古驰之家酒店版；善待你的敌人；家有一老如有一宝
+关键词：老男人；意大利雕塑般侧颜；首谈性亲；古驰之家酒店版；家有一老如有一宝
 
 [Dances Long Forgotten](https://boheme130.github.io/Reviews/DancesLongForgotten/) <br>
 关键词：中篇，五雷轰顶，逼飞奶炸，摄政时代，竟生出个同性恋宝宝，睡亲哥情人，亲哥变亲爹
@@ -92,13 +89,13 @@
 关键词：道林格雷重写；80s；三角关系；三毒；艾滋潮；戴安娜王妃
 
 [Down in Flames](https://boheme130.github.io/Reviews/DownInFlames/) <br>
-关键词：一身五病打工弟爱上老男人；是来加入不是拆散这个家；为艺术不为榜单骑牛
+关键词：竞技骑牛；打工弟爱上鳏夫老板
 
 [Down Low](https://boheme130.github.io/Reviews/DownLow/) <br>
-关键词：竞技牛仔 & 牧师👮🏻儿子；一身五病；破镜重圆
+关键词：竞技牛仔 & 牧师👮🏻儿子；一身五病；破镜重圆；我和你爸掉河里你救谁
 
 [Downtime ](https://boheme130.github.io/Reviews/Downtime/) ⭐️⭐️<br>
-关键词：古风，穿越，现代->1880s伦敦，美国FBI & 英国灵媒，开膛手杰克，惊喜结局
+关键词：古风，穿越，现代->1880s伦敦，美国FBI & 英国灵媒，开膛手杰克
  <br><br> 
 ![avatar](https://static01.nyt.com/images/2019/04/21/sunday-review/21wittmeyer/21wittmeyer-superJumbo.jpg)<br>
 
@@ -110,9 +107,9 @@
 关键词：搬床白宫🇺🇸；搬床克里姆林宫🇷🇺；搬床沙特夏宫🇸🇦；战争；碟中谍；多线发展 
 
 [Fake Out](https://boheme130.github.io/Reviews/FakeOut/) <br>
-关键词：直男找假男友逃避前女友；狗血杠杆；看不透我的扑克脸；姐弟”抢男人”；一哭二抱；姑妈变亲妈
+关键词：直男找假男友逃避前女友；看不透我的扑克脸；姐弟”抢男人”
 
-[Fathers of the Bride](https://boheme130.github.io/Reviews/FathersOfBride/) ⭐️<br>
+[Fathers of the Bride](https://boheme130.github.io/Reviews/FathersOfBride/) <br>
 关键词：一婚五订；善待你的敌人；女儿订婚，老夫夫破镜重圆；逼飞奶炸；亲家大战
 
 [Flight Behavior](https://boheme130.github.io/Reviews/FlightBehavior/) <br>
@@ -122,7 +119,7 @@
 
 
 [The Gentle Art of Fortune Hunting ](https://boheme130.github.io/Reviews/GentleArt/) ⭐️⭐️<br>
-关键词：一直一弯一对姐弟，一直一弯一对贵族好友，两两成对，穷困青年v.s.贵族舅舅，双强男主，然而两个女主更强；Math/概率论
+关键词：直弯姐弟 & 直弯贵族好友，骗婚不成反落入女方舅舅手里，Math/概率论
 
 [Gentlemen Series](https://boheme130.github.io/Reviews/Gentlemen/) ⭐️⭐️⭐️<br>
 关键词：伦敦，贵族，摄政时代
@@ -136,10 +133,10 @@
 [县级市系列](https://boheme130.github.io/Reviews/HazzardSomers/) ⭐️<br>
 关键词：仇人变爱人；侦探
 
-[Heroes for Ghosts ](https://boheme130.github.io/Reviews/HerosForGhosts/) ⭐️<br>
-关键词：穿越，一战->现代，士兵，轮回，改写命运，温情
+[Heroes for Ghosts ](https://boheme130.github.io/Reviews/HerosForGhosts/) <br>
+关键词：穿越，一战->现代，士兵，轮回，改写命运
 
-[Him 翻译](https://boheme130.github.io/Reviews/HimTrans/) ⭐️<br>
+[Him 翻译](https://boheme130.github.io/Reviews/HimTrans/) <br>
 关键词：短篇，女同写的男同文学
 
 [His Royal Secret ](https://boheme130.github.io/Reviews/HisRoyal/) ⭐️⭐️⭐️<br>
@@ -155,7 +152,7 @@
 关键词：狗血杠杆；善待你的敌人；首谈性侵；昔日霸总变卖身男奴；gαy for you；假男友变真男友；幼儿园商战
 
 [I Saw You First](https://boheme130.github.io/Reviews/ISawYouFirst/) ⭐️<br>
-关键词：善待你的敌人；爱他就像开着一辆新玛莎拉蒂冲进死胡同
+关键词：善待你的敌人；爱他就像开着一辆新玛莎拉蒂冲进死胡同；兄弟抢男人
 
 [In Memoriam](https://boheme130.github.io/Reviews/InMemoriam/) <br>
 关键词：双向奔赴；暗恋；WWI；青年贵族上战场；PTSD
@@ -167,7 +164,7 @@
 
 
 [The Inheritance ](https://boheme130.github.io/Reviews/Inheritance/) ⭐️⭐️⭐️<br>
-关键词：舞台剧；福斯特；2016年纽约；超现实生死对话；”only connect”；三代人；HIV
+关键词：舞台剧；福斯特；2016年纽约；超现实生死对话；三代人；HIV；里根/特朗普时代
  <br><br> 
 ![avatar](https://www.youngvic.org/sites/default/files/4_0_2.jpg)<br>
 
@@ -176,16 +173,16 @@
 关键词：美国近代风；仇人变爱人；记者 & 编辑；冒牌贵族误入上流社会
 
 [Jackdaw](https://boheme130.github.io/Reviews/Jackdaw/) <br>
-关键词：男飞贼；跟腱断列；看不透他的扑克脸；蠢蠢的爱；善待你的敌人；前作反派变主角；喜鹊王
+关键词：男飞贼 & 警察；前作反派变主角；喜鹊王
 
-[John Chu短篇小说合集](https://boheme130.github.io/Reviews/JohnChu/) ⭐️<br>
+[John Chu短篇小说合集](https://boheme130.github.io/Reviews/JohnChu/) <br>
 关键词：科幻，短篇，华裔
 
 [The King of Infinite Space](https://boheme130.github.io/Reviews/KingOfInfiniteSpace/) ⭐️<br>
 关键词：《哈姆雷特》现代改写；纽约；百老汇；虐恋；神经质；象征主义
 
 [Less ](https://boheme130.github.io/Reviews/Less/) ⭐️⭐️<br>
-关键词：喜剧Comedy，文风轻散愉快，英雄史诗结构，游记，片段式写法，惊喜结局
+关键词：喜剧Comedy，文风轻散愉快，为了躲前男友婚礼去环球旅行，奥德赛英雄史诗
  <br><br> 
 ![avatar](https://hips.hearstapps.com/hmg-prod/images/es-042318-andrew-sean-greer-pulitzer-prize-1524509921.jpg)<br>
 
@@ -194,7 +191,10 @@
 关键词：Less续集；现代奥德赛；喜剧；游记体；HE
 
 [Lily Morton系列](https://boheme130.github.io/Reviews/LilyMortonSeries/) ⭐️<br>
-关键词：英国男同宇宙
+关键词：英国男同宇宙；posh；清爽幽默风
+
+[Lincoln in the Bardo](https://boheme130.github.io/Reviews/LincolnInBardo/) <br>
+关键词：南北战争；佛教中阴；鬼魂；轮回
 
 [Boyfriend/Husband Material](https://boheme130.github.io/Reviews/LondonCalling/) ⭐️⭐️⭐️<br>
 关键词：都市丽人喜剧；伦敦；假男友变真男友
@@ -212,7 +212,7 @@
 关键词：短篇；好莱坞最后一个巨星；搬床失败；一个明星的断气
 
 [Magic in Manhattan Series](https://boheme130.github.io/Reviews/MagicInManhattan/) ⭐️⭐️⭐️<br>
-关键词：奇幻；魔法；咆哮二十年
+关键词：奇幻；魔法；咆哮二十年；爵士年代
  <br><br> 
 ![avatar](https://m.media-amazon.com/images/S/aplus-media/vc/c6b57c13-a367-4c7d-83a7-92b2cd2a5858.__CR0,0,970,300_PT0_SX970_V1___.jpg)<br>
 
@@ -224,7 +224,7 @@
 关键词：中篇；细腻文笔；一心五病；老男人；PTSD；跨年恋；新西兰；摄影师 & 漫画家；治愈
 
 [Merrick](https://boheme130.github.io/Reviews/Merrick/) <br>
-关键词：卖身契，老男人杀手，老头乐，首谈性亲，首谈血情
+关键词：吸血鬼，卖身契，老头乐
 
 [The Mysteries of Pittsburgh](https://boheme130.github.io/Reviews/MysteriesOfPittsburgh/) <br>
 关键词：麦田里的守望者风格 ；coming of age；大学毕业；深柜；黑帮
@@ -233,10 +233,10 @@
 关键词：Roaring 20s；进步主义时代；办公室；善待你的敌人
 
 [Omegas in Power](https://boheme130.github.io/Reviews/OmegasInPower/) <br>
-关键词：三独艺人，死G，穿着的方式/身上的诱惑，善待你的敌人，和老男人结婚的体验，一哭二抱
+关键词：三独艺人A & 霸总O，弱A强O，死G，穿着的方式/身上的诱惑，善待你的敌人，和老男人结婚的体验
 
 [On a Midnight Clear](https://boheme130.github.io/Reviews/OnAMidnightClear/) <br>
-关键词：真·雕塑般的侧颜；子爵 & 他家的雕塑；魔法；圣诞节
+关键词：子爵 & 他家复活的雕塑；魔法；圣诞节
 
 [The People in the Trees ](https://boheme130.github.io/Reviews/PeopleInTheTrees/) ⭐️⭐️⭐️<br>
 关键词：1：独白体，男版洛丽塔，不可靠叙事者；2：长生不老，土著岛民，学术帝国殖民主义；共同关键词：权力失衡，不对等关系
@@ -245,7 +245,7 @@
 
 
 [Perfect Day](https://boheme130.github.io/Reviews/PerfectDay/) <br>
-关键词：简奥斯汀，《劝导》改写，破镜重圆，一个明星的诞生，断气八年，手弹新琴
+关键词：简奥斯汀，《劝导》改写，破镜重圆，一个明星的诞生
 
 [How to Piss Off A Failed Super-Soldier ](https://boheme130.github.io/Reviews/PissOffFailedHero/) <br>
 关键词：失败改造人 ❤️ 暗杀特工；短篇小说；科幻；大逃杀；华裔作者；兄弟和解；真·善待你的敌人
@@ -281,7 +281,7 @@
 关键词：年龄差，阶级差，熟男律师，前罪犯现修车店老板，双外强内弱男主
 
 [Robert Rodi系列](https://boheme130.github.io/Reviews/RobertRodi/) ⭐️⭐️<br>
-关键词：男同comedy，90年代，逼飞奶炸
+关键词：男同comedy，90年代，逼飞奶炸；深柜社畜被迫逼弯做直却遇真命天子；直女爱上gay蜜不惜黑白通吃只为拆散对方；男宠撕逼争宠导演老男人；严肃律师意外找到双胞胎变装皇后兄弟
  <br><br> 
 ![avatar](https://ksr-ugc.imgix.net/assets/011/491/176/b382e955b89d636ce1afd087a659fc30_original.jpg?ixlib=rb-4.0.2&crop=faces&w=1024&h=576&fit=crop&v=1463683501&auto=format&frame=1&q=92&s=54d5697d296bd0eac1c823c751ed85de)<br>
 
@@ -293,10 +293,10 @@
 关键词：法国文学；男仆上位；心机
 
 [Seducing Professor Coyle](https://boheme130.github.io/Reviews/SeducingProfessorCoyle/) <br>
-关键词：师生；搬床；老男人；首谈性亲；大学尖子生变奸子生；三角恋
+关键词：师生；搬床；三角恋
 
 [St-St-stuffed](https://boheme130.github.io/Reviews/St-St-Stuffed/) <br>
-关键词：善待你的敌人；“我整个人被霸凌者抱起”；一个酒店经理的诞生；昔日富二代校霸变洗脚婢
+关键词：曾被霸凌的口吃霸总；昔日富二代校霸变洗脚婢；善待你的敌人
 
 [Street Lavender ](https://boheme130.github.io/Reviews/StreetLavender/) ⭐️<br>
 关键词：找不到从良的理由，站街日记，孤儿流浪记，狄更斯英国
@@ -305,22 +305,22 @@
 关键词：印度移民；母子各自秘密；深柜；初恋；包袱；解脱
 
 [Territory ](https://boheme130.github.io/Reviews/Territory/) <br>
-关键词：短篇，隐晦，反同，家长
+关键词：短篇，隐晦，反同，虚伪家长
 
-[These Violent Delights](https://boheme130.github.io/Reviews/TheseViolentDelights/) ⭐️<br>
+[These Violent Delights](https://boheme130.github.io/Reviews/TheseViolentDelights/) <br>
 关键词：现代美国；穷大学生 & 富家公子；精神疾病；病态关系；互虐；不可靠叙事；罗密欧与朱丽叶框架；棋局隐喻；诗意语言
 
 [This Way Out](https://boheme130.github.io/Reviews/ThisWayOut/) <br>
 关键词：英国；男穆斯林 & 中产白男；二代移民；文化鸿沟；结婚
 
 [The Water that Falls On You From Nowhere翻译](https://boheme130.github.io/Reviews/WaterFallsOnYou/) ⭐️<br>
-关键词：雨果奖短篇；华裔；科幻；传宗接代；带白人老公去见丈母娘
+关键词：雨果奖短篇；华裔；科幻；传宗接代；带白人老公见家长
 
 [When You Were Me](https://boheme130.github.io/Reviews/WhenYouWereMe/) ⭐️⭐️<br>
 关键词：互换身体！中年危机霸总 & 年轻贫穷美少男 互换
 
 [The Winkler Case ](https://boheme130.github.io/Reviews/WinklerCase/) <br>
-关键词：战后黄金年代；悬疑；保险；柯南早期动画既视感；意料外结局；点睛之笔
+关键词：战后黄金年代；悬疑；意料外结局；点睛之笔
 
 [Winterbourne系列四部曲](https://boheme130.github.io/Reviews/WinterbourneSeries/) ⭐️<br>
 关键词：节日系列

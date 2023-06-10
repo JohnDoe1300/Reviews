@@ -5,7 +5,7 @@
 <br>
 <br>
 
-作品：The Amazing Adventures of Kavalier and Clay (2000年普利策文学桂冠作品) <br>
+作品：The Amazing Adventures of Kavalier and Clay<br>
 作者：Michael Chabon <br>
 评分：5/5 <br>
 

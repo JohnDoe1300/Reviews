@@ -8,7 +8,7 @@
 作品：Big Bad Wolf Series<br>
 评分：4.8/5<br>
 
-关键词：人狼，FBI，强强
+关键词：人狼；FBI；探案；强强
 
 ### [The Wolf at the Door](https://boheme130.github.io/WolfAtDoor.git.io/)
 人狼初识
