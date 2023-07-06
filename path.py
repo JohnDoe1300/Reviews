@@ -43,7 +43,7 @@ def main():
                 img_url = ""
                 for line in lines:
                     line = line.rstrip()
-                    if line.find("avatar") != -1 and not add_img:
+                    if (line.find("avatar") != -1 or line.find("img") != -1) and not add_img:
                         index1, index2 = line.find('('), line.find(')')
                         img_url = line[index1+1:index2]
                     if line.find("作品") != -1 and not find_book:

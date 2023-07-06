@@ -1,9 +1,6 @@
 ## Farrell Covington and the Limits of Style
 [回到上一页](https://boheme130.github.io/Reviews/)  &nbsp;&nbsp;  [回到主页](https://boheme130.github.io/Fiction.git.io/)
 
-<br>
-<br>
-
 ![img](https://www.huckmag.com/_next/image?url=https%3A%2F%2Fwww.tcocdn.com%2Ftco%2Fimages%2FHuck%2FLeonard-Fink-1-e1615195642553.jpg%3F05-05&w=2048&q=75)
 
 作品：Farrell Covington and the Limits of Style<br>

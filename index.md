@@ -114,6 +114,9 @@
 
 [Farrell Covington and the Limits of Style](https://boheme130.github.io/Reviews/Farrell/) ⭐️⭐️⭐️<br>
 关键词：1973-2023五十年爱情史诗，罗曼喜剧，半自传，坎普风，疯批老钱公子 & 百老汇剧作人
+ <br><br> 
+![avatar](https://www.huckmag.com/_next/image?url=https%3A%2F%2Fwww.tcocdn.com%2Ftco%2Fimages%2FHuck%2FLeonard-Fink-1-e1615195642553.jpg%3F05-05&w=2048&q=75)<br>
+
 
 [Fathers of the Bride](https://boheme130.github.io/Reviews/FathersOfBride/) <br>
 关键词：一婚五订；善待你的敌人；女儿订婚，老夫夫破镜重圆；逼飞奶炸；亲家大战
