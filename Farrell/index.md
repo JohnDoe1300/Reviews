@@ -3,6 +3,13 @@
 
 ![img](https://www.huckmag.com/_next/image?url=https%3A%2F%2Fwww.tcocdn.com%2Ftco%2Fimages%2FHuck%2FLeonard-Fink-1-e1615195642553.jpg%3F05-05&w=2048&q=75)
 
+<style>
+  pre {
+    white-space : pre-wrap !important;
+    word-break: break-word;
+  }
+</style>
+
 作品：Farrell Covington and the Limits of Style<br>
 作者：Paul Rudnick<br>
 评分：4.9/5<br>
@@ -26,7 +33,7 @@ Being gay meant membership, in a tradition of culture and <b><u>style</u></b> an
 而Farrell更加直接：
 
 <pre>
-Style was his <b><u>armor</b></u>. Style, he once told me, is "<b><u>a form of protest</b></u>, against gross inhumanity or inclement weather. Without style I'm shivering and miserable...[But with style] I'm crusade-ready, especially if I turn my face towards the heavens and inquire, 'Must we?'"
+Style was his <b><u>armor</b></u>. Style, he once told me, is "<b><u>a form of protest</b></u>, against gross inhumanity or inclement weather. Without style I'm shivering and miserable...(But with style) I'm crusade-ready, especially if I turn my face towards the heavens and inquire, 'Must we?'"
 </pre>
 
 Style我感觉最接近的翻译可能是潇洒，就像Nate独白的，既然同志身份已经让他与主流的认同无缘，那为何不试着打破更多的桎梏？这种洒脱的思想延展到了两人对于美与艺术的极致追求，面对各自的低谷拥有重启的勇气，专业和事业的选择，对于家族的反抗，对于好莱坞的顺直价值观的抗争，在艾滋潮中对于污名化的抵抗：
