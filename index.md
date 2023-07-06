@@ -34,6 +34,9 @@
 [Arrivals](https://boheme130.github.io/Reviews/Arrivals/) <br>
 关键词：纽约客短篇；演员 & 素人；后疫情时代
 
+[An Arrow’s Flight](https://boheme130.github.io/Reviews/ArrowsFlight/) <br>
+关键词：希腊神话现代新编；阿喀琉斯之子；特洛伊战争；男妓；反英雄叙事；HIV潮
+
 [Audition](https://boheme130.github.io/Reviews/Audition/) <br>
 关键词：coming of age；全文翻译
 
@@ -108,6 +111,9 @@
 
 [Fake Out](https://boheme130.github.io/Reviews/FakeOut/) <br>
 关键词：直男找假男友逃避前女友；看不透我的扑克脸；姐弟”抢男人”
+
+[Farrell Covington and the Limits of Style](https://boheme130.github.io/Reviews/Farrell/) ⭐️⭐️⭐️<br>
+关键词：1973-2023五十年爱情史诗，罗曼喜剧，半自传，坎普风，疯批老钱公子 & 百老汇剧作人
 
 [Fathers of the Bride](https://boheme130.github.io/Reviews/FathersOfBride/) <br>
 关键词：一婚五订；善待你的敌人；女儿订婚，老夫夫破镜重圆；逼飞奶炸；亲家大战
