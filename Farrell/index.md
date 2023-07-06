@@ -30,7 +30,9 @@
 
 而Nate和Farrell两人反抗的方式是他们的性格和价值观——对于style的追崇。标题的style是这本书两人的线索，一开头Nate关于身份认同的独白就提到：
 
-<pre>Being gay meant membership, in a tradition of culture and <b><u>style</u></b> and outrage — I’m not claiming that gay people are always, or even often, gifted, at these things, but <b><u>I longed to be</u></b>.</pre>
+```plaintext
+Being gay meant membership, in a tradition of culture and **style** and outrage — I’m not claiming that gay people are always, or even often, gifted, at these things, but <b><u>I longed to be</u></b>.</pre>
+```
 
 而Farrell更加直接
 
@@ -43,3 +45,7 @@ Style我感觉最接近的翻译可能是潇洒，就像Nate独白的，既然�
 这本书内容除了两人的罗曼史和社论般的内心独白，其他维度也有着丰富的内容，即便是一个小插曲也会被精心打磨，比如Farrell第一次带着Nate去他家的一栋废弃多年别墅时穿插了一段隐秘、酸甜夹杂的家族女同历史和主仆情感的传承，这段小历史单独成书都不为过，书里的其他配角也同样立体而复杂，Nate和Farrell穿行于新英格兰，堪萨斯，百老汇，好莱坞的众生之间，贯穿始终的只有两人对于style的追求，就像书里的最后一句话：
 
 <pre>Style has no limits. Which is such a gay thing to say.</pre>
+
+```plaintext
+Style has no limits. Which is such a **gay** thing to say.
+```
