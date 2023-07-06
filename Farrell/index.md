@@ -4,7 +4,7 @@
 ![img](https://www.huckmag.com/_next/image?url=https%3A%2F%2Fwww.tcocdn.com%2Ftco%2Fimages%2FHuck%2FLeonard-Fink-1-e1615195642553.jpg%3F05-05&w=2048&q=75)
 
 <style>
-  pre {
+  code {
     white-space : pre-wrap !important;
     word-break: break-word;
   }
@@ -27,23 +27,27 @@
 而Nate和Farrell两人反抗的方式是他们的性格和价值观——对于style的追崇。标题的style是这本书两人的线索，一开头Nate关于身份认同的独白就提到：
 
 <pre>
+<code>
 Being gay meant membership, in a tradition of culture and <b><u>style</u></b> and outrage — I’m not claiming that gay people are always, or even often, gifted, at these things, but <b><u>I longed to be</u></b>. 
+</code>
 </pre>
 
 而Farrell更加直接：
 
 <pre>
+<code>
 Style was his <b><u>armor</b></u>. Style, he once told me, is "<b><u>a form of protest</b></u>, against gross inhumanity or inclement weather. Without style I'm shivering and miserable...(But with style) I'm crusade-ready, especially if I turn my face towards the heavens and inquire, 'Must we?'"
+</code>
 </pre>
 
 Style我感觉最接近的翻译可能是潇洒，就像Nate独白的，既然同志身份已经让他与主流的认同无缘，那为何不试着打破更多的桎梏？这种洒脱的思想延展到了两人对于美与艺术的极致追求，面对各自的低谷拥有重启的勇气，专业和事业的选择，对于家族的反抗，对于好莱坞的顺直价值观的抗争，在艾滋潮中对于污名化的抵抗：
 
-<pre>
+```
 Being gay meant I'd already demolished a cardinal rule of social acceptance, so <b><u>why not pulverize, or at least splinter, as many as I'd like?</b></u>
-</pre>
+```
 
 这本书内容除了两人的罗曼史和社论般的内心独白，其他维度也有着丰富的内容，即便是一个小插曲也会被精心打磨，比如Farrell第一次带着Nate去他家的一栋废弃多年别墅时穿插了一段隐秘、酸甜夹杂的家族女同历史和主仆情感的传承，这段小历史单独成书都不为过，书里的其他配角也同样立体而复杂，Nate和Farrell穿行于新英格兰，堪萨斯，百老汇，好莱坞的众生之间，贯穿始终的只有两人对于style的追求，就像书里的最后一句话：
 
-<pre>
+```
 Style has no limits. Which is such a gay thing to say. 
-</pre>
+```
