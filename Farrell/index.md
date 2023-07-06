@@ -31,18 +31,15 @@
 而Nate和Farrell两人反抗的方式是他们的性格和价值观——对于style的追崇。标题的style是这本书两人的线索，一开头Nate关于身份认同的独白就提到：
 
 <pre>
-```plaintext
-Being gay meant membership, in a tradition of culture and \*\*style\*\* and outrage — I’m not claiming that gay people are always, or even often, gifted, at these things, but <b><u>I longed to be</u></b>.
-```
-</pre>
-
-```plaintext
-Being gay meant membership, in a tradition of culture and \*\*style\*\* and outrage — I’m not claiming that gay people are always, or even often, gifted, at these things, but <b><u>I longed to be</u></b>.
-```
-
-<pre>
 Being gay meant membership, in a tradition of culture and <b><u>style</u></b> and outrage — I’m not claiming that gay people are always, or even often, gifted, at these things, but <b><u>I longed to be</u></b>.
 </pre>
+
+<pre>Style was his <b><u>armor</b></u>. Style, he once told me, is "<b><u>a form of protest</b></u>, against gross inhumanity or inclement weather. Without style I'm shivering and miserable...(But with style) I'm crusade-ready, especially if I turn my face towards the heavens and inquire, 'Must we?'"</pre>
+
+<pre>Being gay meant I'd already demolished a cardinal rule of social acceptance, so <b><u>why not pulverize, or at least splinter, as many as I'd like?</b></u></pre>
+
+<pre>Style has no limits. Which is such a gay thing to say.</pre>
+
 
 而Farrell更加直接
 
