@@ -262,6 +262,15 @@
 [Playing the Ace](https://boheme130.github.io/Reviews/PlayingTheAce/) <br>
 关键词：镀金时代；金银之争；敌人变爱人再变搭档；联邦金本位派反假银币探员 & 前天才铸银假币罪犯；善待你的敌人
 
+[Playing the Palace](https://boheme130.github.io/Reviews/PlayingThePalace/) ⭐️⭐️<br>
+关键词：🇬🇧王子爱上我🇺🇸，喜剧，英国世男一爱上新泽西素人
+ <br><br> 
+![avatar](https://hips.hearstapps.com/hmg-prod/images/playing-the-palace-1621273366.jpg?resize=1200:*)<br>
+
+
+[Point of Contact](https://boheme130.github.io/Reviews/PointOfContact/) ⭐️<br>
+关键词：战争，中年丧子父亲 & 亡子战友，PTSD
+
 [Pop Star Series](https://boheme130.github.io/Reviews/PopStar/) <br>
 关键词：流行歌手，男团，三独艺人
 
@@ -339,4 +348,7 @@
  <br><br> 
 ![avatar](https://i.ibb.co/yFzn339/IMG-1849.jpg)<br>
 
+
+[Young Mungo](https://boheme130.github.io/Reviews/YoungMungo/) <br>
+关键词：后撒切尔时代苏格兰，少年黑帮版罗密欧与朱丽叶，家暴，酗酒
 
