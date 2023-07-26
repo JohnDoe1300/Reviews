@@ -4,7 +4,7 @@
 ![avatar](https://shortstorymagictricks.files.wordpress.com/2014/07/leavitt-david-1983.jpg)
 <p align="center">
   作者David Leavitt照片
-  </p>
+</p>
 
 作品：Territory <br>
 作者：David Leavitt<br>

@@ -124,6 +124,9 @@
 [Flight Behavior](https://boheme130.github.io/Reviews/FlightBehavior/) <br>
 关键词：压抑婚姻；单亲；红州小镇；帝皇蝶；气候变化
 
+[Lord Foxbridge Butts In](https://boheme130.github.io/Reviews/Foxbridge/) ⭐️⭐️<br>
+关键词：伦敦，1920s，贵族侦探集，通讯录万能贴身男仆(非cp)，地下通讯录世界，cozy mystery
+
 [GPT ](https://boheme130.github.io/Reviews/GPT/) <br>
 
 
@@ -198,6 +201,9 @@
 
 [Less is Lost](https://boheme130.github.io/Reviews/LessIsLost/) <br>
 关键词：Less续集；现代奥德赛；喜剧；游记体；HE
+
+[Less ](https://boheme130.github.io/Reviews/LessParallel/) <br>
+
 
 [Lily Morton系列](https://boheme130.github.io/Reviews/LilyMortonSeries/) ⭐️<br>
 关键词：英国男同宇宙；posh；清爽幽默风
