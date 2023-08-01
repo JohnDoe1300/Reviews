@@ -6,9 +6,6 @@
   作者Matt Cain少年时在卧室，他的背后是麦当娜的海报
 </p>
 
-<br>
-<br>
-
 作品：The Madonna of Bolton<br>
 作者：Matt Cain<br>
 评分：4.7/5<br>
