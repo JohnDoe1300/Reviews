@@ -226,6 +226,9 @@
 [Lucky Charm](https://boheme130.github.io/Reviews/LuckyCharm/) <br>
 关键词：短篇；好莱坞最后一个巨星；搬床失败；一个明星的断气
 
+[The Madonna of Bolton](https://boheme130.github.io/Reviews/MadonnaOfBolton/) ⭐️<br>
+关键词：麦当娜死忠粉，英国，HE
+
 [Magic in Manhattan Series](https://boheme130.github.io/Reviews/MagicInManhattan/) ⭐️⭐️⭐️<br>
 关键词：奇幻；魔法；咆哮二十年；爵士年代
  <br><br> 
@@ -330,6 +333,9 @@
 
 [Territory ](https://boheme130.github.io/Reviews/Territory/) <br>
 关键词：短篇，隐晦，反同，虚伪家长
+
+[The Other Boyfriend](https://boheme130.github.io/Reviews/TheOtherBF/) <br>
+关键词：捉三记，善待你的敌人，小三help小三
 
 [These Violent Delights](https://boheme130.github.io/Reviews/TheseViolentDelights/) <br>
 关键词：现代美国；穷大学生 & 富家公子；精神疾病；病态关系；互虐；不可靠叙事；罗密欧与朱丽叶框架；棋局隐喻；诗意语言
