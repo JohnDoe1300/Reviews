@@ -3,7 +3,9 @@
 
 ![avatar](https://i.guim.co.uk/img/media/90bf42ecce4bcee504dbd4ad0a2ad28020091b79/75_0_3519_2556/master/3519.jpg?width=620&dpr=2&s=none)
 <p align="center">
+  <font size="2">
   作者Matt Cain少年时在卧室，他的背后是麦当娜的海报
+  </font>
 </p>
 
 作品：The Madonna of Bolton<br>
@@ -18,7 +20,9 @@
 
 ![avatar](https://www.rollingstone.com/wp-content/uploads/2021/05/madonna-truth-or-dare-1991-film.jpg)
 <p align="center">
+  <font size="2">
   麦当娜和她的Gay舞者
+  </font>
 </p>
 
 在当时的传媒中，同性恋很难找到自己的role model和代表，而充满反抗精神的麦当娜把这个禁忌话题带入了大众的视野。作者Matt在采访里回忆到：当他在80年代打开麦当娜最新专辑Like a Prayer时，麦当娜在里面夹了一张她的手写字条，呼吁每一个有HIV的人都应该得到尊重和同理心。麦当娜对于少数群体的支持是在那个没有网络的年代对于他们很大的鼓舞。书里，Charlie和印度裔闺蜜Shanaz在高中时偷偷去了曼切斯特的地下性少数夜店，Shanaz因为是直女，她被老板娘问是不是性少数时有点不好意思，但老板娘说她是亚裔，同样也是少数群体，让她在这个环境里大胆放松自己，接着众人一起跳Vogue. 
@@ -28,6 +32,8 @@
 然而即便在百年之后出版商仍然更希望同性小说以悲剧结尾，The Madonna of Bolton出版时被拒稿30多次，作者Matt透露有个出版商认为他的书”too gay”，希望能更像Alan Hollighurst (Hollighurst拿了普利策，他的作品全是同性悲剧). 书里Charlie虽然面对了霸凌和歧视，但他在麦当娜的激励下以乐观的心态面对他在Bolton和伦敦的生活。他和男友Justin的交往相遇充满喜剧色彩，这样一个在困境中仍然保持轻松欢乐氛围的作品被多次拒稿，最终靠众筹自费出版，而作者Matt被拒稿后随便写的两本异性恋爱情故事却能火速出版，让人不禁想起福斯特百年前的另一个批注：“幸福是莫里斯的主基调，但也导致了另一个出乎意料的后果，它让出版变得更加困难。”
 
 ![avatar](https://angeldanielmatos.files.wordpress.com/2013/10/mauricecover.jpg)
-<p align="left">
-  福斯特在《莫里斯的情人》里批注：“A happy ending was imperative. I shouldn’t have bothered to write otherwise. I was determined that in fiction anyway two men should fall in love and remain in it for the ever and ever that fiction allows, and in this sense Maurice and Alec still roam in the greenwood. […] Happiness is its keynote–which by the way has had an unexpected result: it has made the book more difficult to publish.”
+<p align="left" >
+  <font size="2">
+  福斯特在《莫里斯的情人》里批注：<i>“A happy ending was imperative. I shouldn’t have bothered to write otherwise. I was determined that in fiction anyway two men should fall in love and remain in it for the ever and ever that fiction allows, and in this sense Maurice and Alec still roam in the greenwood. […] Happiness is its keynote–which by the way has had an unexpected result: it has made the book more difficult to publish.”</i>
+  </font>
 </p>
