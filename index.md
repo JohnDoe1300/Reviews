@@ -190,6 +190,9 @@
 [John Chu短篇小说合集](https://boheme130.github.io/Reviews/JohnChu/) <br>
 关键词：科幻，短篇，华裔
 
+[KC Triology](https://boheme130.github.io/Reviews/KCTriology/) <br>
+关键词：coming of age, 棒球运动员 & 制作人, 流浪, 22年虐恋
+
 [The King of Infinite Space](https://boheme130.github.io/Reviews/KingOfInfiniteSpace/) ⭐️<br>
 关键词：《哈姆雷特》现代改写；纽约；百老汇；虐恋；神经质；象征主义
 
@@ -255,6 +258,9 @@
 
 [On a Midnight Clear](https://boheme130.github.io/Reviews/OnAMidnightClear/) <br>
 关键词：子爵 & 他家复活的雕塑；魔法；圣诞节
+
+[Pansies](https://boheme130.github.io/Reviews/Pansies/) <br>
+
 
 [The People in the Trees ](https://boheme130.github.io/Reviews/PeopleInTheTrees/) ⭐️⭐️⭐️<br>
 关键词：1：独白体，男版洛丽塔，不可靠叙事者；2：长生不老，土著岛民，学术帝国殖民主义；共同关键词：权力失衡，不对等关系

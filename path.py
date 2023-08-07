@@ -35,6 +35,8 @@ def main():
             #     filedata = filedata.replace(str1, "[回到上一页](https://boheme130.github.io/Reviews/)  &nbsp;&nbsp;  [回到主页](https://boheme130.github.io/Fiction.git.io/)")
             # with open(url[2], 'w') as file:
             #     file.write(filedata)
+            if (url[2].find('.JPG') != -1 or url[2].find('.jpg') != -1):
+                continue
             with open(url[2], 'r') as markdown:
                 lines = markdown.readlines()
                 book, output_str, keys = "", "", ""
