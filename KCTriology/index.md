@@ -1,10 +1,10 @@
-## KC Triology
+## KC Trilogy
 [回到上一页](https://boheme130.github.io/Reviews/)  &nbsp;&nbsp;  [回到主页](https://boheme130.github.io/Fiction.git.io/)
 ![avatar](./KCTriologyCover.JPG)
 <br>
 <br>
 
-作品：KC Triology<br>
+作品：KC Trilogy<br>
 作者：Tom Mendicino<br>
 评分：4.6/5<br>
 
