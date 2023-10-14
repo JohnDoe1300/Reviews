@@ -11,7 +11,7 @@
 
 
 [A Place Called Winter](https://boheme130.github.io/Reviews/APlaceCalledWinter/) <br>
-关键词：英格兰->加拿大；拓荒；自我认同 
+关键词：英格兰->加拿大；拓荒；自我认同
 
 [Alec ](https://boheme130.github.io/Reviews/Alec/) <br>
 关键词：莫里斯的情人；续写
@@ -75,6 +75,9 @@
 
 [The Cinderella Waltz](https://boheme130.github.io/Reviews/CinderellaWaltz/) <br>
 关键词：纽约客短篇；婚姻；灰姑娘心理
+
+[2023扫文大全](https://boheme130.github.io/Reviews/Collection2023/) <br>
+关键词：70+本书扫文
 
 [Comfort and Joy ](https://boheme130.github.io/Reviews/ComfortAndJoy/) ⭐️⭐️<br>
 关键词：千禧年；医院；深柜老钱医生爱上勤杂管理员；疾病；HE
@@ -190,7 +193,7 @@
 [John Chu短篇小说合集](https://boheme130.github.io/Reviews/JohnChu/) <br>
 关键词：科幻，短篇，华裔
 
-[KC Triology](https://boheme130.github.io/Reviews/KCTriology/) <br>
+[KC Trilogy](https://boheme130.github.io/Reviews/KCTriology/) <br>
 关键词：coming of age, 棒球运动员 & 制作人, 流浪, 22年虐恋
 
 [The King of Infinite Space](https://boheme130.github.io/Reviews/KingOfInfiniteSpace/) ⭐️<br>
