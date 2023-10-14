@@ -320,7 +320,7 @@ Calden是一个天才外科医生，但是就像美剧豪斯一样，他的脾�
 
 
 
-## Spellbound/Starcrossed/Wonderstruck (by Allie Therin)
+## Spellbound, Starcrossed, Wonderstruck (by Allie Therin)
 	阅读难度：★★☆
 	剧情评分：★★★★★
 	
