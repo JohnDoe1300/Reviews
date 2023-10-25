@@ -1,6 +1,9 @@
 ## Reviews
 [回到主页](https://boheme130.github.io/Fiction.git.io/)<br><br>
 
+[10 Things that Never Happened](https://boheme130.github.io/Reviews/10ThingsNeverHappened/) ⭐️<br>
+关键词：圣诞，romcom，被炒后对老板假装失忆，grumpy/sunshine, forced proximity
+
 [A Lady for a Duke](https://boheme130.github.io/Reviews/ALadyForADuke/) ⭐️⭐️<br>
 关键词：跨性别；摄政时代；昔日竹马贵族战友变性；性别规范
 
@@ -45,6 +48,9 @@
 
 [Band Sinister](https://boheme130.github.io/Reviews/BandSinister/) ⭐️<br>
 关键词：古风；哥特；前工革英式田园牧歌；小白兔闯狼巢；善待你的敌人
+
+[Beauty and the Bookworm](https://boheme130.github.io/Reviews/BeautyBookworm/) ⭐️<br>
+关键词：GUTS🟣，餐券男 & 充实逼电筒
 
 [Big Bad Wolf Series](https://boheme130.github.io/Reviews/BigBadWolfSeries/) ⭐️⭐️<br>
 关键词：人狼；FBI；探案；强强
@@ -324,6 +330,9 @@
 
 [Romantic Comedy](https://boheme130.github.io/Reviews/RomanticComedy/) <br>
 关键词：双钻年专歌手 & SNL写手；喜剧制作；新冠；居家隔离
+
+[A Room with a View](https://boheme130.github.io/Reviews/RoomWithView/) <br>
+关键词：看得见风景的房间
 
 [The Second Footman](https://boheme130.github.io/Reviews/SecondFootman/) ⭐️<br>
 关键词：法国文学；男仆上位；心机
